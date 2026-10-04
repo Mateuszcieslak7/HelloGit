@@ -1,3 +1,7 @@
 # HelloGit
 
-Aplikacja wyświetla zmiany
+Aplikacja wyświetla witaj świecie.
+
+## Kontakt
+Autor: Mateusz C
+
