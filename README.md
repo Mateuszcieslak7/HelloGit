@@ -1,0 +1,3 @@
+# HelloGit
+
+Aplikacja wyświetla zmiany
